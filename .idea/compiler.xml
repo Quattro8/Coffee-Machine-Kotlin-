@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Class_members_to_initialize_objects.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Find_the_error.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Pets.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Constructors-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-Complex_numbers.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-Creating_a_student_tracking_system.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-New_planet.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-Operations_on_var_objects.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Declaring_classes-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Currencies.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Rainbow_colors.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Bugs_in_a_vinyl_store.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Facts_about_member_functions.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Keyword_to_declare_a_member_function.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Member_functions'_return_type.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Car_price.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Find_the_correct_invocations.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-URL.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Property_accessors-City_population.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Property_accessors-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
